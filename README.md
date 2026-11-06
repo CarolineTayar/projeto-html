@@ -13,7 +13,7 @@
 ## ▶️ Como visualizar
 
 1. Baixe ou clone este repositório
-2. Abra o arquivo **carolineTayar_Ag12_DS_I** no navegador
+2. Abra o arquivo **carolineTayar_Ag12_DS_I.html** no navegador
 
 
 ## 🛠️ Tecnologias
